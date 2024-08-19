@@ -1,9 +1,21 @@
-## Describe your changes 2
+###### See [How to PR Like A Boss](https://betenbough.atlassian.net/l/c/VCpFtwKS) for more information.
 
-## Issue ticket number and link
+## Summary  
+<br>
 
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+## Testing 
+##### Arrange
+<br>
+
+##### Scenarios/Cases
+<br>
+
+## Communications 
+##### Audience
+<br>
+
+##### Pre-Buildout Message 
+<br>
+
+##### Post-Buildout Message 
+<br>
